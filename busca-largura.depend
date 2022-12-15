@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671063141 source:/home/tutu/codeblocks-programs/busca-largura/main.cpp
+	<iostream>
+	"grafo.h"
+
+1671063667 /home/tutu/codeblocks-programs/busca-largura/include/vertice.h
+	<string>
+	<iostream>
+
+1671063784 /home/tutu/codeblocks-programs/busca-largura/include/grafo.h
+	"vertice.h"
+	<queue>
+	<vector>
+
