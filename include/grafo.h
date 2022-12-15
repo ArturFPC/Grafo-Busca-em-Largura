@@ -82,7 +82,7 @@ void grafo::mostrarGrafo(){
         cout<<"Número do vértice: "<<v[i].getNum()<<endl;
         cout<<"Distância do vertice raiz: "<<v[i].getD()<<endl;
         cout<<"Cor final: "<<v[i].getCor()<<endl;
-        cout<<"Número do predescessor: "<<v[i].getP()<<endl;
+        cout<<"Número do predecessor: "<<v[i].getP()<<endl;
     }
 }
 #endif // GRAFO_H
